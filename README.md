@@ -2,7 +2,7 @@
 
 This GitHub repository offers a curated reading plan with PDFs for essential technical books.Ideal for both beginners
 and seasoned developers, the reading order guides you through fundamental concepts to advanced topics. Elevate your
-skills and build a strong foundation in software engineering. Happy learning! 📚🚀
+skills and build a strong foundation in software engineering 📚🚀
 
 ## Notes 
 - The books order is based on my personal opinion and experience. if you have any suggestions or recommendations, please
